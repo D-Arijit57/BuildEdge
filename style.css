@@ -1,0 +1,61 @@
+#underline{
+    background-color: #e3f2fd;
+    border-radius: 30px;
+}
+#navanimation{
+    position: relative;
+    animation: fade-down 0.7s;
+}
+#navanimation:after{
+    content: "";
+    position: absolute;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    background-color: grey;
+    transition: 0.3s;
+}
+#navanimation:hover::after{
+    width: 100%;
+}
+#logo{
+    color: orange;
+}
+#cbtn{
+    border-radius: 30px;
+}
+#src{
+    border:2px solid grey;
+    border-radius: 30px;
+}
+#lead{
+    margin: 0px auto;
+}
+#lstmid{
+    margin:50px auto;
+}
+@keyframes fade-down{
+    0%{
+        opacity:0;
+        transform: translateY(-30px) scale(0.9);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0px) scale(1);
+    }
+}
+@keyframes fade-up{
+    0%{
+        opacity:0;
+        transform: translateY(+30px) scale(0.9);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0px) scale(1);
+    }
+}
+#navani2{
+    animation: fade-up 0.5s;
+}
+
