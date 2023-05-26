@@ -1,6 +1,6 @@
 
 BuildEdge🏠
-link:https://d-arijit57.github.io/BuildEdge/
+
 
 BuildEdge is a home buying and selling website that also provides a platform for finding home decoration items to enhance your living spaces. This repository contains the source code for the BuildEdge website, which has been developed using HTML, CSS, and Bootstrap. The goal of this project is to create a user-friendly and visually appealing platform for users to explore and engage in the home buying and decoration process.
 
@@ -31,3 +31,4 @@ Contributing
 
 Contributions to the BuildEdge project are welcome! If you have any ideas, bug fixes, or suggestions for improvements, feel free to open an issue or submit a pull request. Please follow the existing code style and conventions used in the project.
 
+BuildEdge is live now : link:https://d-arijit57.github.io/BuildEdge/
