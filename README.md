@@ -16,7 +16,7 @@ The initial version of BuildEdge includes the following features:
 
 *Future Enhancements:*
 
-We have plans to add more exciting features and improvements to the BuildEdge website in the future. Some of the enhancements we are considering include:
+I have plans to add more exciting features and improvements to the BuildEdge website in the future. Some of the enhancements I'm considering include:
 
 1.User Reviews and Ratings: Allow users to leave reviews and ratings for the listed properties and decoration items, enabling potential buyers to make informed decisions.
 Advanced Search Filters: Enhance the search functionality by adding additional filters such as property type, amenities, and more, to provide users with more refined search results.
