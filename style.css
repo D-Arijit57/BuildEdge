@@ -58,4 +58,38 @@
 #navani2{
     animation: fade-up 0.5s;
 }
+#twitter{
+    stroke-dasharray: 1560;
+    stroke-dashoffset: 0;
+}
+#twitter:hover{
+    transform: translateY(-5%);
+    animation: animatetw 0.5s linear forwards;
+}
+@keyframes animatetw {
+    0%{
+        stroke-dashoffset: 0;
+    }
+    100%{
+        stroke-dasharray: 3120;
+        color:rgb(0, 123, 255) ;
+    }
+}
+#insta{
+    stroke-dasharray: 1560;
+    stroke-dashoffset: 0;
+}
+#insta:hover{
+    transform: translateY(-8%);
+    animation: animatein 0.2s linear forwards;
+}
+@keyframes animatein {
+    0%{
+        stroke-dashoffset: 0;
+    }
+    100%{
+        stroke-dasharray: 3120;
+        fill :rgb(233, 126, 153);
+    }
+}
 
